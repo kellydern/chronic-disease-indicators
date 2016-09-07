@@ -15,10 +15,10 @@ Alcohol, Arthritis, Asthma, Cancer, Cardiovascular Disease, Chronic kidney disea
 ### Clustered Force Layout
 A Clustered Force Layout shows nested circles which represent hierarchies and compare values. This visualization can be used to show the proportional differences between data points through their areas. 
 
+![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_disease.png "Chronic Disease Visualization by type")
+
 ### Circle Packing
 The Circle Packing visualizations show differences in data points size, comparing by item number.
-
-![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_disease.png "Chronic Disease Visualization by type")
 
 ![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_lg_Clustered.png "Chronic Disease Visualization large")
 
