@@ -13,3 +13,5 @@ I used the U.S. [Chronic Disease Indicators (CDI)] (http://catalog.data.gov/data
 Alcohol, Arthritis, Asthma, Cancer, Cardiovascular Disease, Chronic kidney disease, Chronic Obstructive Pulmonary Disease, Diabetes, Immunization, Mental Health
 
 ![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_disease.png "Chronic Disease Visualization by type")
+
+![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_lg_Clustered.png "Chronic Disease Visualization large")
