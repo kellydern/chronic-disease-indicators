@@ -9,6 +9,9 @@ I used the U.S. [Chronic Disease Indicators (CDI)] (http://catalog.data.gov/data
 ### Timeframe
 2008 - 2014
 
+### Tools
+I used Excel to order and take a random sample of about ~1 in 1,000 datapoints. I used [Raw] (http://app.raw.densitydesign.org/) to visualize the data and Illustrator to clean up the visual look and feel.
+
 ### Chronic Diseases in this Sample
 Alcohol, Arthritis, Asthma, Cancer, Cardiovascular Disease, Chronic kidney disease, Chronic Obstructive Pulmonary Disease, Diabetes, Immunization, Mental Health
 
