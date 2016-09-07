@@ -12,6 +12,12 @@ I used the U.S. [Chronic Disease Indicators (CDI)] (http://catalog.data.gov/data
 ### Chronic Diseases in this Sample
 Alcohol, Arthritis, Asthma, Cancer, Cardiovascular Disease, Chronic kidney disease, Chronic Obstructive Pulmonary Disease, Diabetes, Immunization, Mental Health
 
+### Clustered Force Layout
+A Clustered Force Layout shows nested circles which represent hierarchies and compare values. This visualization can be used to show the proportional differences between data points through their areas. 
+
+### Circle Packing
+The Circle Packing visualizations show differences in data points size, comparing by item number.
+
 ![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_disease.png "Chronic Disease Visualization by type")
 
 ![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_lg_Clustered.png "Chronic Disease Visualization large")
