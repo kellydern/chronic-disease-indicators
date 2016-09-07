@@ -18,4 +18,5 @@ Alcohol, Arthritis, Asthma, Cancer, Cardiovascular Disease, Chronic kidney disea
 
 ### Steamgraph
 A Steamgraph can be used for a continuous data such as time series, such as in place of stacked bars. 
+
 ![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_Streamgraph.png)
