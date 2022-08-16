@@ -1,7 +1,7 @@
 ###Chronic Disease Indicators Visualization
 ##Data Visualization of Chronic Disease Indicators in the US
 
-![Alt text] (https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_Clustered.png "Chronic Disease Visualization")
+![Alt text](https://github.com/kellydern/chronic-disease-indicators/blob/master/US_Chronic_random_Clustered.png "Chronic Disease Visualization")
 
 ## Data
 
